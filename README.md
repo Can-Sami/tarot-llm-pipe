@@ -1,2 +1,2 @@
 # tarot-llm-pipe
-simple tarot llm
+Simple tarot llm using langchain, ollama, unsloth, crawl4ai, chromadb...
