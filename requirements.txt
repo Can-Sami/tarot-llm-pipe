@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+chromadb
+transformers>=4.36.0
+datasets
+accelerate
+xformers
+unsloth 
